@@ -6,7 +6,7 @@ int main(){                                // Hauptfunktion
     int x = 2;
     int y = 3;
     int result;
-    result = addNumbers(x, y);
+    result = huhu(x, y);
     std::cout << "Die Summe von " << x << " und " << y << " ist: " << result << std::endl; // Ausgabe der Summe
     return 0;
 }

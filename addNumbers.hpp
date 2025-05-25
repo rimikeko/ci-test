@@ -1,1 +1,1 @@
-int addNumbers(int a, int b);
+int huhu(int a, int b);
