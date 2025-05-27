@@ -12,4 +12,5 @@ int main(){                                // Hauptfunktion
 
 
 
-// mkdir build && cd build && cmake .. -G "MinGW Makefiles" && cmake --build .
+
+// rm -rf build && mkdir build && cd build && cmake -G "MinGW Makefiles" .. && cmake --build . &&  ./ci-test.exe
